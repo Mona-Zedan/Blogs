@@ -1,0 +1,25 @@
+.varela-round-regular {
+    font-family: "Varela Round", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .varela-regular {
+    font-family: "Varela", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .lora-uniquifier {
+    font-family: "Lora", system-ui;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }  
+  
+
+.josefin-sans-uniquifier{
+  font-family: "Josefin Sans", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}  
