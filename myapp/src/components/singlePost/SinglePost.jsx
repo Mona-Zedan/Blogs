@@ -17,7 +17,7 @@ function SinglePost() {
 
                 <div className="singlePostInfo">
                     <span className='singlePostAuthor'>
-                        Author : <b> Mona </b>
+                        Author : <b> Nada </b>
                     </span>
                     <span className='singlePostDate'>
                         1 hour ago
