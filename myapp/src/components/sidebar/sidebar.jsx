@@ -9,7 +9,7 @@ export default function Sidebar() {
           alt=""
         />
         <p>
-          "I'm David Johnson, and I create and manage a blog <br /> or website that features articles, text content, or media that is regularly updated. <br /> I share my thoughts, experiences, and various topics with the audience."
+          "I'm David Johnson, <br /> and I create and manage <br /> a blog  or website that  <br />features articles, text content, <br /> or media that is regularly updated. <br /> I share my thoughts, <br /> experiences, and various<br /> topics with the audience."
         </p>
       </div>
       <div className="sidebarItem">
@@ -23,6 +23,8 @@ export default function Sidebar() {
           <li className="sidebarListItem">Cinema</li>
         </ul>
       </div>
+
+      
       <div className="sidebarItem">
         <span className="sidebarTitle">Follow Us</span>
         <div className="sidebarSocial">
